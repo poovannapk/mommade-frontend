@@ -1,0 +1,36 @@
+.appContent{
+    background-color: white;
+    color: black;
+    font-size: 19px;
+    font-family: sans-serif;
+    justify-content: center;
+    text-align: center;
+    padding: 35px 15px;
+    margin: 25px 15px;
+    display: flex;
+}
+
+.imgTextContent{
+    display: flex;
+}
+.emailPhone{
+    margin: 3px;
+    width: 40%;
+}
+
+.shareAppButton{
+    border: none;
+    background-color: blue;
+    padding: 10px 5px;
+    margin: 20px 5px;
+    margin-top: 4px;
+    margin-bottom: 33px;
+    color: white;
+    font-weight: 600;
+}
+
+.phoneImage{
+    width: 100%;
+    transform: rotate(25deg);
+    margin: -50px;
+}
